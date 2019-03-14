@@ -11,3 +11,5 @@
 /build
 /captures
 .externalNativeBuild
+/lib2
+/lib3
